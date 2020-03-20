@@ -8,7 +8,7 @@ Before running the project please update the application.properties under src/ma
 
 #
 # Google credentials
-#
+
 ```
 google.account.secret.type=
 google.account.secret.project-id=
