@@ -9,6 +9,7 @@ Before running the project please update the application.properties under src/ma
 #
 # Google credentials
 #
+```
 google.account.secret.type=
 google.account.secret.project-id=
 google.account.secret.private-key-id=
@@ -19,7 +20,7 @@ google.account.secret.auth-uri=
 google.account.secret.token-uri=
 google.account.secret.auth-provider-x509-cert-url=
 google.account.secret.client-x509-cert-url=
-
+```
 
 ## Software required to build and run
 ```
