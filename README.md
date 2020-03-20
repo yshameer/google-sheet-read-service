@@ -62,7 +62,7 @@ If you already have a sheet you are trying to access do step 3 else follow steps
 ```
 
 
-##APIs
+## APIs
 ```
 GET /sheetInfo/{sheetId} returns the basic information about the sheet
 POST /sheetData returs the data for the requested columns with row and column numbers of the requested worksheet(s)
